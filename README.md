@@ -1,5 +1,6 @@
 
-![logo](https://github.com/khannirov/SadhuBaba/assets/95225468/3b41d41c-cea4-4136-9b1a-05049af61058)
+![logo](![fsdghjh](https://github.com/khannirov/SadhuBaba/assets/95225468/39f47e71-7884-462d-af74-7c4f32c9cbe2)
+
 
 <h1 align="center">Hi 👋, I'm Sadhu Baba</h1>
 <h3 align="center">A passionate Hacker from Bangladesh</h3>
@@ -10,9 +11,9 @@
 
 <p align="left"> <a href="https://twitter.com/sadhubaba" target="blank"><img src="https://img.shields.io/twitter/follow/sadhubaba?logo=twitter&style=for-the-badge" alt="sadhubaba" /></a> </p>
 
-- 🔭 I’m currently working on [Admin at](https://t.me/hackersofbangladesh)
+- 🔭 I’m currently working on [here](https://t.me/hackersofbangladesh)
 
-- 🌱 I’m currently learning **Ethical Hacking, Revers Engineering, Pythone**
+- 🌱 I’m currently learning **Ethical Hacking, Revers Engineering, Python**
 
 - 👯 Our Official Forum [Ethical Fighters Of Bangladesh](https://hack4explorebd.com)
 
